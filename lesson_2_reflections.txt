@@ -3,3 +3,20 @@ The directory become ready to be version controlled .. which is needed if I want
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is a place where the files changed should be put in order to be ready to be commited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By comparing it to the most recent commit, making sure it doesn't need to be split into multiple commits.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When trying a new feature in the project, without affecting the working version, it will help me navigate between different versions
+of the project.
+
+How do the diagrams help you visualize the branch structure?
+A picture is worth a thousand word.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It add the new feature created in the branch to another branch. we represented it that way to better visiualize the branches!
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros: do the heavy work for you.
+cons: might end up merging to branch into a non-sense one.
