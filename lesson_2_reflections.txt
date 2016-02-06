@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+The directory become ready to be version controlled .. which is needed if I want to use git to save the history of my project!
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is a place where the files changed should be put in order to be ready to be commited.
